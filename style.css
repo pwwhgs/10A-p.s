@@ -1,0 +1,15 @@
+p{
+    font-size: 30px;
+}
+th{
+    color: aqua;
+}
+.Proclass{
+    font-size: 30px;
+    color: red;
+}
+.zapivka {
+    background-color: blueviolet (243,139, 65);
+    width: 300px;
+    height: 300px;
+}
